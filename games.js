@@ -1,4 +1,6 @@
 // Image credits: Kickstarter
+
+//games: 11 objects with 6 properties ( name, description, pledged, )
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",
