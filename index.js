@@ -30,8 +30,8 @@ const gamesContainer = document.getElementById("games-container");
 function addGamesToPage(games) {
 
     // loop over each item in the data
-    for( const key in games){
-        gamesContainer.
+    for(const key in games){
+       
     }
 
 
